@@ -3,7 +3,8 @@ Java Swing and SQL Application<a name="TOP"></a>
 - - - - 
 This repository contains a Java Swing application that demonstrates a simple user interface for asking queries, providing answers, and viewing responses. The program utilizes Java Swing for the user interface and connects to an Oracle SQL database for data storage. Before running the program, you need to initialize three database tables: user_info, answer_table, and query_table. Below are the instructions for setting up the database and running the program.
 - - - - 
-**#Prerequisites#**
+# Prerequisites #
+
 Java Development Kit (JDK)
 Oracle SQL Database
 - - - - 
